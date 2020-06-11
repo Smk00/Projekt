@@ -1,2 +1,3 @@
-# Projekt
-Projekt OOP 2020 ljeto
+This is the mathematical puzzle game Tower of Hanoi
+It is a console game
+Rules are included in the main menu
